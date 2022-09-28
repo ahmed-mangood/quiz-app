@@ -1,0 +1,82 @@
+[
+    {
+        "title": "why we use <br> Elemant",
+        "answer_1": "to make text bold",
+        "answer_2": "to make text italic",
+        "answer_3": "to add breakline",
+        "answer_4": "to create horizontal line",
+        "the_right_answer": "to add breakline"
+    },
+    {
+        "title": "is <img> element has attribute href",
+        "answer_1": "yes",
+        "answer_2": "no, it's for anchor tag <a>",
+        "answer_3": "all elements has this attribute",
+        "answer_4": "answer 1 and 3 right",
+        "the_right_answer": "no, it's for anchor tag <a>"
+    },
+    {
+        "title": "How can we make element text bold",
+        "answer_1": "putting it inside <b> tag",
+        "answer_2": "putting it inside <strong> tag",
+        "answer_3": "customizing it with front-weight properity in css",
+        "answer_4": "All Answers is right",
+        "the_right_answer": "All Answers is right"
+    },
+    {
+        "title": "How can we include external page inside html page",  
+        "answer_1": "by using include in html",
+        "answer_2": "by using load in html",
+        "answer_3": "by using iframe tag",
+        "answer_4": "all solutions is wrong",
+        "the_right_answer": "by using iframe tag"
+    },
+    {
+        "title": "what is the tag that not exists in html",  
+        "answer_1": "<object>",
+        "answer_2": "<basefont>",
+        "answer_3": "<abbr>",
+        "answer_4": "all tags is wrong",
+        "the_right_answer": "all tags is wrong"
+    },
+    {
+        "title": "How we specify document type of html5 page",
+        "answer_1": "<DOCTYPE html>",
+        "answer_2": "<DOCTYPE html5>",
+        "answer_3": "<!DOCTYPE html5>",
+        "answer_4": "<!DOCTYPE html>",
+        "the_right_answer": "<!DOCTYPE html>"
+    },
+    {
+        "title": "what is the element thats not exists in html5 semantics",
+        "answer_1": "<article>",
+        "answer_2": "<section>",
+        "answer_3": "<blockquote>",
+        "answer_4": "<aside>",
+        "the_right_answer": "<blockquote>"
+    },
+    {
+        "title": "In Html Can We Use This Way to add attribute",
+        "answer_1": "<div class='class-name'>",
+        "answer_2": "<div class=class-name>",
+        "answer_3": "<div class=\"class-name\">",
+        "answer_4": "all tags is right",
+        "the_right_answer": "all tags is right"
+    },
+    {
+        "title": "How can We linked JavaScript File Inside Html File",
+        "answer_1": "Using <link>",
+        "answer_2": "Using <a href>",
+        "answer_3": "Using <script></script>",
+        "answer_4": "No Answers is Right",
+        "the_right_answer": "Using <script></script>"
+    },
+    {
+        "title": "What Is Html Mean?",
+        "answer_1": "Higher Text Markup Language",
+        "answer_2": "Hyper Text Markup Language",
+        "answer_3": "Hold Text Markup Language",
+        "answer_4": "All Answers is right",
+        "the_right_answer": "Hyper Text Markup Language"
+    }
+]
